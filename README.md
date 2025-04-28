@@ -43,15 +43,25 @@ markdown
 ## 项目结构
 cloud-blog-platform/
 ├── apps
+
 │ ├── frontend/ # 前端应用
+
 │ └── backend/ # Go后端服务
+
 ├── infra/ # 基础设施配置
+
 │ ├── nginx/
+
 │ ├── prometheus/
+
 │ └── docker-compose.prod.yml
+
 ├── scripts/ # 部署脚本
+
 ├── .github/ # CI/CD工作流
+
 ├── docker-compose.yml # 开发环境配置
+
 └── README.md
 
 VPS部署指南
