@@ -1,5 +1,7 @@
 Cloud-Ready Blog Platform
+
 License: AGPL v3
+
 Docker Image CI
 
 一个支持多用户、Markdown写作、全文搜索的博客平台，适配云原生部署。
